@@ -1,0 +1,26 @@
+
+	 Enter consumer number 62006
+
+	 Enter Type of connection (D for Domestic or C for Commercial) D
+
+	 Enter consumer name Raj
+
+	 Enter previous month reading 400
+
+	 Enter current month reading 500
+
+	 Consumer number = 62006
+
+	 Consumer name = Raj
+
+	 type of connection = DOMESTIC 
+
+	 Current Month Reading = 500.0
+
+	 Previous Month Reading = 400.0
+
+	 Total units = 100.0
+
+	 Total bill = RS 100.0
+
+Process finished.
